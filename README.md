@@ -43,7 +43,6 @@ Juego del Ahorcado/
 ├── estados_graficos.py  # Estados del ahorcado (ASCII art)
 ├── palabras.py          # Lista de 100 palabras de programación
 ├── README.md           # Este archivo
-└── AGENTS.md           # Guía para agentes IA
 ```
 
 ## Palabras Incluidas
